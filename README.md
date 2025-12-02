@@ -11,7 +11,9 @@
   <br>
 
   <p>
-    <img src="https://img.shields.io/badge/HackerOne-Ranked-black?style=for-the-badge&logo=hackerone&logoColor=white" />
+    <a href="https://hackerone.com/mishra_chandan5512">
+      <img src="https://img.shields.io/badge/HackerOne-Ranked-black?style=for-the-badge&logo=hackerone&logoColor=white" />
+    </a>
     <img src="https://img.shields.io/badge/Bugcrowd-Hunter-E65224?style=for-the-badge&logo=bugcrowd&logoColor=white" />
     <img src="https://img.shields.io/badge/Intigriti-Researcher-1B3A57?style=for-the-badge&logo=intigriti&logoColor=white" />
     <img src="https://img.shields.io/badge/Focus-Private_Programs-red?style=for-the-badge&logo=target" />
@@ -51,14 +53,16 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 
 ---
 
-### 📊 **Github Stats**
+### 📊 **Github Stats & Languages (FIXED)**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrachandan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0" alt="Mishra's Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff" alt="GitHub Stats" />
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff" alt="Top Languages" />
+
 </div>
 
 ---
@@ -66,14 +70,14 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 ### 👾 **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📫 Connect with me</h3>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto: mishrachandan5512@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
