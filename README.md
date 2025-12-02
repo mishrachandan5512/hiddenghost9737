@@ -56,22 +56,23 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 ### GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0&sideLabels=25c2a0&dates=c9d1d9)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mishrachandan5512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrachandan5512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrachandan5512&theme=radical&hide_border=true&background=0D1117&stroke=25c2a0&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0&sideLabels=25c2a0&dates=c9d1d9" alt="GitHub Streak" />
+</div>
 
-**Commits** | **Experience** | **Followers** | **Repositories** | **Stars** | **Issues** | **Pull Requests**
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
-![](https://img.shields.io/badge/Middle_Committer-12pt-orange?style=flat-square) | ![](https://img.shields.io/badge/Junior_Dev-7pt-blue?style=flat-square) | ![](https://img.shields.io/badge/First_Friend-2pt-green?style=flat-square) | ![](https://img.shields.io/badge/First_Repository-1pt-yellow?style=flat-square) | ![](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square)
+<br>
+
+<div align="center">
+  
+| **Commits** | **Experience** | **Followers** | **Repositories** | **Stars** | **Issues** | **Pull Requests** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Middle Committer](https://img.shields.io/badge/Middle_Committer-12pt-orange?style=flat-square) | ![Junior Dev](https://img.shields.io/badge/Junior_Dev-7pt-blue?style=flat-square) | ![First Friend](https://img.shields.io/badge/First_Friend-2pt-green?style=flat-square) | ![First Repository](https://img.shields.io/badge/First_Repository-1pt-yellow?style=flat-square) | ![Unknown](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![Unknown](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) | ![Unknown](https://img.shields.io/badge/Unknown-0pt-red?style=flat-square) |
 
 </div>
 
@@ -80,9 +81,7 @@ I am a **Security Researcher** and **Tool Developer** who doesn't rely on scanne
 ### Contribution Activity
 
 <div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true&area_color=25c2a0)](https://github.com/mishrachandan5512)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishrachandan5512&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true&area=true&area_color=25c2a0" alt="Contribution Graph" />
 </div>
 
 ---
